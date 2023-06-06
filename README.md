@@ -99,4 +99,4 @@ If you have any suggestions, improvements, or issues, please submit them to the 
 
 This project was inspired by the need for a simple Django CRUD application. Special thanks to the Django community for their excellent documentation and resources.
 
-If you have any questions or need further assistance, feel free to contact me at [your-email@example.com](mailto:your-email@example.com). Thank you for using this project!
+If you have any questions or need further assistance, feel free to contact me at [siddharth96549@example.com](mailto:your-email@example.com). Thank you for using this project!
